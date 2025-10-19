@@ -1,11 +1,11 @@
 
 ### Olá, eu sou o Carlos Magno! 🖥️
 
-![instagram] https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/c4r105_m4gn0s/
+[![instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/c4r105_m4gn0s/)]
 
-![whastapp] https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)(https://w.app/qr0c7e)
+[![whastapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)(https://w.app/qr0c7e)]
 
-[![Carlos-Magnos](https://github-readme-stats.vercel.app/api?username=carlos-magnos)](https://github.com/carlos-magnos/github-readme-stats
+[![Carlos-Magnos](https://github-readme-stats.vercel.app/api?username=carlos-magnos)](https://github.com/carlos-magnos/github-readme-stats)
 
 ## Tecnologias que estou aprendendo.
 
